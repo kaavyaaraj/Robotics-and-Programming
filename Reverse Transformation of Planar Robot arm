@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include<math.h>
 int main()
-
 {
     int L1,L2,T1,T2;
     double Theta1,Theta2;
