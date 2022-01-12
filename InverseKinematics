@@ -1,3 +1,8 @@
+#Calculating inverse kinematics for a simple 2D manipulator using the inverseKinematics class.
+
+TOOL: Matlab
+
+
 % Start with a blank rigid body tree model.
 robot = rigidBodyTree('DataFormat','column','MaxNumBodies',3);
 %%
